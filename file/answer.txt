@@ -1,0 +1,87 @@
+--------part1:
+exegesis : 
+Sample program
+inTJRAC language
+computerfactiorial
+asd
+
+--------part2:
+keyword --> read
+variable --> x
+separating character --> ;
+exegesis : 
+input an integer
+
+--------part3:
+keyword --> if
+number --> 0
+separating character --> <
+variable --> x
+keyword --> then
+exegesis : 
+don't compute if x<=0
+
+--------part4:
+variable --> fact
+separating character --> :
+separating character --> =
+number --> 1
+
+--------part5:
+keyword --> repeat
+
+--------part6:
+variable --> fact
+separating character --> :
+separating character --> =
+variable --> fact
+operator --> *
+variable --> x
+separating character --> ;
+
+--------part7:
+variable --> x
+separating character --> :
+separating character --> =
+variable --> x
+operator --> -
+number --> 1
+
+--------part8:
+keyword --> until
+variable --> x
+separating character --> =
+number --> 0
+
+--------part9:
+keyword --> write
+variable --> fact
+
+--------part10:
+keyword --> end
+
+--------part11:
+variable --> x
+separating character --> :
+separating character --> =
+number --> 5
+
+--------part12:
+keyword --> write
+keyword --> end
+
+--------part13:
+number --> 13
+separating character --> ;
+variable --> fact
+
+--------part14:
+exegesis : 
+ exegesis 
+
+--------part15:
+exegesis : 
+ exegesis2
+
+--------part16:
+end of compLagPrograme!
