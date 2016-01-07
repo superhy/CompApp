@@ -76,12 +76,4 @@ separating character --> ;
 variable --> fact
 
 --------part14:
-exegesis : 
- exegesis 
-
---------part15:
-exegesis : 
- exegesis2
-
---------part16:
 end of compLagPrograme!
